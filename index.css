@@ -59,7 +59,7 @@ a {
     /* place this pseudo element before menu*/
     content: "";
     /* place empty content and put image in background*/
-    background: url('/image/jonathan-cooper-9pYlnlEDMAY-unsplash.jpg') no-repeat center center/cover;
+    background: url('image/jonathan-cooper-9pYlnlEDMAY-unsplash.jpg') no-repeat center center/cover;
     position: absolute;
     /* align according to the document from top and left 0,0*/
     top: 0;
